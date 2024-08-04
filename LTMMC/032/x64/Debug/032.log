@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\D\BaiTap\LTMMC\032\Source.cpp(27,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  032.vcxproj -> C:\D\BaiTap\LTMMC\x64\Debug\032.exe

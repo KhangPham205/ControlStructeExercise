@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\D\BaiTap\LTMMC\006\Source.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\D\BaiTap\LTMMC\006\Source.cpp(27,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  006.vcxproj -> C:\D\BaiTap\LTMMC\x64\Debug\006.exe
